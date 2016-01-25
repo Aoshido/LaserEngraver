@@ -175,6 +175,12 @@
 <hole x="2.54" y="2.54" drill="3.2"/>
 <text x="33.02" y="34.29" size="2.1844" layer="21">Nano</text>
 <text x="48.26" y="33.02" size="1.778" layer="21">Aoshido</text>
+<hole x="30.48" y="80.01" drill="2"/>
+<text x="35.56" y="78.74" size="1.27" layer="23">Don't Drill</text>
+<text x="45.72" y="80.01" size="1.27" layer="23">x</text>
+<text x="45.72" y="78.74" size="1.27" layer="23">x</text>
+<text x="44.45" y="80.01" size="1.27" layer="23">x</text>
+<text x="44.45" y="78.74" size="1.27" layer="23">x</text>
 </plain>
 <libraries>
 <library name="EasyDriver">

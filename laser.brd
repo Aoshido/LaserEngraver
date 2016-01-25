@@ -181,6 +181,7 @@
 <text x="45.72" y="78.74" size="1.27" layer="23">x</text>
 <text x="44.45" y="80.01" size="1.27" layer="23">x</text>
 <text x="44.45" y="78.74" size="1.27" layer="23">x</text>
+<text x="52.07" y="36.83" size="2.54" layer="23">青</text>
 </plain>
 <libraries>
 <library name="EasyDriver">
